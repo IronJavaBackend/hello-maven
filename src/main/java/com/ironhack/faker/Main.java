@@ -1,4 +1,4 @@
-package com.ironhack;
+package com.ironhack.faker;
 
 import net.datafaker.Faker;
 
